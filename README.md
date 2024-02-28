@@ -1,6 +1,7 @@
 # css
 
-Sensible CSS Defaults
+Is CSS good? No.
+Do I like writing it? Yes.
 
 ## Formalize
 
